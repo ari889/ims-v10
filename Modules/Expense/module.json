@@ -1,0 +1,11 @@
+{
+    "name": "Expense",
+    "alias": "expense",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Expense\\App\\Providers\\ExpenseServiceProvider"
+    ],
+    "files": []
+}

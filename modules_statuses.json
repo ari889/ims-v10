@@ -1,0 +1,15 @@
+{
+    "Product": true,
+    "Account": true,
+    "Base": true,
+    "Category": true,
+    "Customer": true,
+    "Expense": true,
+    "HRM": true,
+    "Purchase": true,
+    "Report": true,
+    "Sale": true,
+    "Stock": true,
+    "Supplier": true,
+    "System": true
+}
